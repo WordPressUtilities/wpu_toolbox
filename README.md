@@ -1,2 +1,3 @@
-# wpu_toolbox
+# WPU Toolbox
+
 A library of functions for WordPress development
